@@ -32,11 +32,17 @@ pgadmin   NodePort   10.43.52.104   <none>        8081:30080/TCP
 Dann kannst du aufrufen: http://localhost:30080
 
 **Login in PgAdmin:**
-Benutzername: admin@example.com
-Passwort: pgadmin123
+
+|Feld|Wert
+|---|---
+|Benutzername|admin@example.com
+|Passwort|pgadmin123
 
 **Neuen Server angeben:**
-Name: postgres
-Host name: postgres
-Username: postgres
-Password: postgres123
+
+|Feld|Wert
+|---|---|
+|Name|postgres
+|Host name|postgres
+|Username|postgres
+|Password|postgres123
